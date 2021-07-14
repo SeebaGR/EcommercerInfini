@@ -650,6 +650,42 @@ height: 230px;
 
 .csFormUltimo2{
 
+  display: flex;
+  justify-content: center;
+  align-items: center
 
+}
+
+.iconport2 {
+
+  height: 50px;
+  width: 50px;
+  justify-content: center;
+  align-items: center; 
+  text-align: center;
+
+}
+
+.containerfull{
+
+height: 300px;
+font-size: 40px;
+
+}
+
+.brand{
+
+  justify-content: right;
+  align-items: right; 
+  text-align: center;
+ margin-left: 460px;
+
+}
+
+.brand2{
+
+
+  text-align: center;
+ margin-right: 100px;
 
 }

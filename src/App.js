@@ -23,8 +23,10 @@ function App() {
 <BrowserRouter>
 <NavV />
               <Switch>  
+
+            
               
-                <Route exact path="/inicio"  component={Inicio} />                         
+                <Route path='/inicio' exact={true}  component={Inicio} />                         
                
                 <Route exact path="/login"  component={Login} />
      
