@@ -1,0 +1,655 @@
+.bg-navV {
+background-color: #127f86;
+
+
+}
+
+.ssize {
+  height: 100px;
+  width: 200;
+  margin-left: 20px;
+}
+
+.ssize2 {
+
+  height: 100px;
+  width: 200;
+  margin-left: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  
+
+}
+
+.centrado {
+
+
+justify-content: center;
+align-content: center;
+}
+
+.botonS {
+
+  background-color: rgb(102, 221, 241);
+
+}
+
+.tamaño {
+
+
+ position: relative;
+
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-left: 20px;
+ margin-top: 20px;
+ margin-right: 20px;
+
+}
+
+.image {
+  
+  height: 500px;
+  width: 100%;
+
+}
+
+.image2 {
+
+height: 100px;
+width: 100px;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 20px;
+
+
+}
+
+.tamaño2 {
+
+  width: 20rem;
+ height: 350px;
+ justify-content: center;
+ align-items: center; 
+ margin-left: 10px;
+ margin-right: 10px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+
+}
+
+.tamaño3 {
+
+  width: 10px;
+
+}
+
+.textocard{
+
+font-size: 20;
+justify-content: center;
+align-items: center; 
+text-align: center;
+
+}
+
+.text2card{
+
+  font-size: 30;
+}
+
+.tamañofilt{
+
+  width: 250px;
+  height: 100px;
+
+}
+
+.tamañocard {
+
+  width: auto;
+  height: 350px;
+  position: relative;
+
+ display: flex;
+}
+
+.container1 {
+
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: auto;
+
+}
+
+.cntt {
+
+  margin-top: 30px;
+  width: 100%;
+}
+
+.espaciador { 
+
+  height: 500px;
+}
+
+.cntt2 {
+
+margin-top: 30px;
+color: white;
+
+}
+
+.cntt3 {
+
+  
+
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  width: 500px;
+  
+
+}
+
+.cntt6 {
+
+  
+  background-color: #127f86;
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  width: 500px;
+  
+
+}
+
+.cntt4 {
+
+  background-color: #127F86;
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.crdctnn {
+
+width: 100%;
+height: 250;
+
+}
+
+.iconport {
+
+  height: 50px;
+  width: 50px;
+  justify-content: center;
+  align-items: center; 
+  text-align: center;
+
+}
+
+.icconprt { 
+
+  justify-content: center;
+  align-items: center; 
+  text-align: center;
+  font-size: 14px;
+  margin-top: 30px;
+  padding-top: 20px;
+}
+
+.icconprt2 { 
+
+  justify-content: flex-end;
+  align-items: flex-end; 
+  text-align: center;
+  font-size: 14px;
+
+}
+
+.iconText {
+
+  font-size: 25px;
+}
+
+.tamCard {
+
+  height: 45px;
+
+}
+
+.containerPad {
+
+background-color: rgb(207, 110, 128);
+
+}
+
+.footerImg {
+
+
+  background-color: #127f86;
+  
+  justify-content: center;
+  align-items: center; 
+  text-align: center;
+}
+
+.aligTxt {
+
+  margin-top: 90px;
+
+  justify-content: center;
+  align-items: center; 
+  text-align: center;
+
+}
+
+.iconport2 {
+
+  height: 50px;
+  width: 50px;
+  justify-content: center;
+  align-items: center; 
+  text-align: center;
+  margin-top: 85px;
+
+}
+
+.txtclor { 
+
+color: white;
+
+
+}
+
+.fotoSeccion4 {
+
+
+padding-top: 10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+height: 400px;
+width: 450px;
+margin-top: 100px;
+display:block;
+float:  right;
+
+ 
+}
+
+.cssSeccion4V { 
+
+margin: 0 auto;
+text-align: center;
+width: 300px;
+
+height: 25px;
+background-color: #127f86;
+}
+
+.cssSeccion4vv {
+
+ background-color: rebeccapurple;
+  width: 10000px;
+  font-size: 20px;
+  margin: 0 auto;
+  
+}
+
+.cssp{ 
+
+  width: 300px;
+  background-color: rebeccapurple;
+  margin-left: 265px;
+}
+
+.cssp2{ 
+  height: 1px;
+  width: 230px;
+  text-align: center;
+  
+  background-color: red;
+  margin: 0 auto;
+}
+
+.carr{
+
+margin-top: 100px;
+
+}
+
+.carr3{
+
+  justify-content: center;
+  align-items: center; 
+  text-align: center;
+  float:  center;
+
+}
+
+.carr4{
+
+  margin-top: '120px';
+
+  justify-content: center;
+  align-items: center; 
+  text-align: center;
+  float:  center;
+
+}
+
+.carr5{
+
+  height: 200px;
+  background-color: #127F86;
+  margin-top: 100px;
+  justify-content: center;
+  align-items: center; 
+  text-align: center;
+}
+
+
+.estiloboton{
+
+width: 250px;
+margin-top: 20px;
+
+
+}
+
+.estiloboton2{
+
+  width: 250px;
+margin-top: 20px;
+float: right;
+
+
+}
+
+.fotoweb{
+
+
+  width: 600px;
+  height: 400px;
+  align-self: center;
+
+}
+
+.banner{
+
+  height: 100px;
+  width: 350px;
+  background-color: red;
+
+}
+
+.tituloventa{
+
+  margin-top: 25px;
+}
+
+
+.containerCuent{
+
+ background-color: #E8F7F8;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 10px;
+padding-right: 10px;
+margin-top: 50px;
+
+}
+
+.fotoCon{
+
+  margin-top: 100px;
+  width: 230;
+  height: 120px;
+}
+
+.spce{
+
+  margin-top: 30px;
+  background-color: rgb(175, 170, 171);
+  height: 1px;
+
+
+}
+
+.containerSpc{
+
+
+  margin-top: 40px;
+  background-color: white;
+
+
+}
+
+.paddinSpc{ 
+
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+}
+
+.cssButonCuenta{  
+
+  margin-top: 30px;
+  width: 110px;
+
+  text-align: center;
+
+}
+
+.cssButonCuenta2 {
+
+  height: auto;
+  width: 110px;
+  margin-top: 10px;
+  text-align: center;
+
+}
+
+.csslogoLogin{    
+
+margin-left: 70px;
+margin-top: 20px;
+
+}
+
+.logincss{
+
+
+    
+    
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .cssll{
+
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .cssll2{
+
+    margin-top: 15px;
+  }
+
+  .botonLog{ 
+
+    width: 100%;
+    background-color: #72F2DB;
+
+  }
+
+  .iconosLogin{  
+
+      width: 50px;
+      height: 50px;
+      margin-left: 5px;
+      margin-right: 5px;
+  }
+
+
+  .margenes{
+
+    width: auto;
+    height: auto;
+  }
+
+  .formmlo{
+
+width: 500px;
+height: 200px;
+justify-content: center;
+align-items: center;
+
+  }
+
+.cssPreguntas{  
+
+  padding-top: 40px;
+
+text-align: center;
+  width: 100%;       
+
+  
+}
+
+.cssVenta{
+
+
+  margin-top: 30px;
+  text-align: center;
+  font-size: 25px;
+
+
+
+}
+
+.cssFigure{
+
+  background-color: #BBF8FC;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+
+}
+
+.conVent{ 
+
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.cssll{
+
+  color:black
+
+}
+
+
+.divSegundo{ 
+
+width: 50%;
+background-color: #BBF8FC;
+margin: 0 auto;
+height: 170px;
+
+
+
+}
+.lll{
+
+  padding-top: 20px;
+
+
+}
+.csfomr{
+
+  margin-top: 40px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+
+}
+
+.csfomr2{
+
+  width: 50%;
+background-color: #BBF8FC;
+margin: 0 auto;
+height: 230px;
+
+}
+
+.checkll{
+
+  height: 25px;
+  width: 25px;
+}
+
+
+.cssFigure2{
+
+  background-color: #BBF8FC;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+
+.cssProceso{ 
+
+  margin-top: 40px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+
+}
+
+.csFormUltimo{ 
+
+  padding-top: 20px;
+  margin-bottom: 20px;
+
+
+
+}
+
+.csFormUltimo2{
+
+
+
+}
