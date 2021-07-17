@@ -55,20 +55,20 @@ function Footer () {
           
           
           <h3 style={{color:'white'}}><a href="https://www.instagram.com/infinideasagencia/"><Figure.Image
-        width={150}
-        height={150}
+        width={100}
+        height={100}
         alt="171x180"
         src={facebook}
   /></a>
   <a href="https://www.instagram.com/infinideasagencia/"><Figure.Image
-        width={150}
-        height={150}
+        width={100}
+        height={100}
         alt="171x180"
         src={Insta}
   /></a>
   <a href="https://www.instagram.com/infinideasagencia/"><Figure.Image
-        width={150}
-        height={150}
+        width={100}
+        height={100}
         alt="171x180"
         src={Google}
   /></a>
